@@ -12,6 +12,8 @@ objeto = Atributo_Muy_Privado()
 objeto.acceder_variable_privada()
 
 print()
+
+
 #Ejemplo 2:
 print("Ejemplo 2:")
 class Carro:

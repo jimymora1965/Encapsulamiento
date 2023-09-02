@@ -17,6 +17,7 @@ class Auto:
 
 #creamos el objeto  y  lo llamamos con sus caracteristicas
 vehiculo = Auto("Aveo", 2009)
+
 modelo = vehiculo.get_modelo()
 año = vehiculo.get_año()
 print("El modelo es: " , modelo, "Del año: ", año)
